@@ -1,0 +1,18 @@
+{
+  "name": "the-azuredevops-bot",
+  "version": "1.0.0",
+  "description": "A bot created by @fenildesai to retweet hashtags #AzureDevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azuredevops",
+    "bot"
+  ],
+  "author": "Fenil Desai @fenildesai",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
